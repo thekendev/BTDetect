@@ -1,2 +1,2 @@
-# BTDetect
-BTDetect: Brain Tumor Detection and Classification
+# DTDetect
+DTDetect: Diabetis Detection and Classification
