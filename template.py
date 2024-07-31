@@ -6,21 +6,21 @@ project_name = "src"
 
 list_of_files = [
     # main folders
-    f"BTDetect/{project_name}/__init__.py",
+    f"DTDetect/{project_name}/__init__.py",
     f"research/__init__.py",
 
     # src subfolders
-    f"BTDetect/{project_name}/components/__init__.py",
-    f"BTDetect/{project_name}/utils/__init__.py",
-    f"BTDetect/{project_name}/config/__init__.py",
-    f"BTDetect/{project_name}/pipeline/__init__.py",
-    f"BTDetect/{project_name}/entity/__init__.py",
-    f"BTDetect/{project_name}/constants/__init__.py"
+    f"DTDetect/{project_name}/components/__init__.py",
+    f"DTDetect/{project_name}/utils/__init__.py",
+    f"DTDetect/{project_name}/config/__init__.py",
+    f"DTDetect/{project_name}/pipeline/__init__.py",
+    f"DTDetect/{project_name}/entity/__init__.py",
+    f"DTDetect/{project_name}/constants/__init__.py"
 
     # src subfolders tree
-    f"BTDetect/{project_name}/utils/common.py",
-    f"BTDetect/{project_name}/config/configuration.py",
-    f"BTDetect/{project_name}/entity/config_entity.py",
+    f"DTDetect/{project_name}/utils/common.py",
+    f"DTDetect/{project_name}/config/configuration.py",
+    f"DTDetect/{project_name}/entity/config_entity.py",
 
 
 
